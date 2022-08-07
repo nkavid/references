@@ -26,6 +26,14 @@
 
  * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
  * [Beej's Guide to UNIX IPC](https://beej.us/guide/bgipc/)
+
+## Halo
+
+ * [Bloomberg: How Microsoft’s Halo Infinite Went From Disaster to Triumph](https://www.bloomberg.com/news/articles/2021-12-08/how-microsoft-s-halo-infinite-went-from-disaster-to-triumph)
+ * [GDC: One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM)
+ * [Closer Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience)
+ * [Halo Design Documents and Concepts](http://www.cand.land/halodocs)
+    * Halo 3 HUD & Halo 2 Menu Flowchart
  
 ## Miscellaneous Video
 
