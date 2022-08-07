@@ -21,3 +21,8 @@
 
  * [NVIDIA: GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
  * [NVIDIA: Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
+
+## UNIX
+
+ * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+ * [Beej's Guide to UNIX IPC](https://beej.us/guide/bgipc/)
