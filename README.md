@@ -16,3 +16,8 @@
  * [FFmpeg vs TwitchTranscoder](https://blog.twitch.tv/sv-se/2017/10/10/live-video-transmuxing-transcoding-f-fmpeg-vs-twitch-transcoder-part-i-489c1c125f28/)
     * Part I and II
  * [Microsoft Media: 8-bit YUV Formats](https://docs.microsoft.com/en-us/windows/win32/medfound/recommended-8-bit-yuv-formats-for-video-rendering)
+
+## GPU
+
+ * [NVIDIA: GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
+ * [NVIDIA: Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
