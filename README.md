@@ -45,3 +45,7 @@
  * [Git Happens](https://www.youtube.com/watch?v=Dv8I_kfrFWw)
  * [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
  * [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
+ * [Reviewing The Command & Conquer Source!](https://youtu.be/Oee7gje-XRc?t=970)
+    * Hade varit nice att klippa bort byggpill...
+ * [Exploring and Reviewing F', The Mars Ingenuity Flight Software](https://www.youtube.com/watch?v=RbhufLudVsI)
+ * [Path Tracing Three Ways: A Study of C++ Style](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
