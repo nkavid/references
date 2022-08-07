@@ -26,3 +26,14 @@
 
  * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
  * [Beej's Guide to UNIX IPC](https://beej.us/guide/bgipc/)
+ 
+## Miscellaneous Video
+
+ * [Stress-Free Game Development: Powering Up Your Studio With DevOps](https://www.youtube.com/watch?v=t9HRzE7_2Xc)
+ * [C++ as a "Live at Head" Language](https://www.youtube.com/watch?v=tISy7EJQPzI)
+ * [There are no zero-cost abstractions](https://www.youtube.com/watch?v=rHIkrotSwcc)
+ * [The Bits Between the Bits: How We Get to main()](https://www.youtube.com/watch?v=dOfucXtyEsU)
+ * [Naming is Hard: Let's Do Better](https://www.youtube.com/watch?v=MBRoCdtZOYg)
+ * [Git Happens](https://www.youtube.com/watch?v=Dv8I_kfrFWw)
+ * [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
+ * [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
