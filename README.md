@@ -35,6 +35,8 @@
  * [Closer Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience)
  * [Halo Design Documents and Concepts](http://www.cand.land/halodocs)
     * Halo 3 HUD & Halo 2 Menu Flowchart
+ * [TrueSkill2: An Improved Bayesian Skill Rating System](https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/)
+ * [GDC: Machine Learning for Optimal Matchmaking (TrueMatch)](https://www.youtube.com/watch?v=Q8BX0nXfPjY)
  
 ## Miscellaneous Video
 
