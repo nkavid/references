@@ -6,7 +6,6 @@
  * [Real-Time Rendering Resources](https://www.realtimerendering.com/)
  * [Game Engine Architecture Resources](https://www.gameenginebook.com/coursemat.html)
  * [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)
-    * 17.3 Articles
  * [Vulkan Tutorial](https://vulkan-tutorial.com/)
  * [Khronos: Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 
@@ -34,7 +33,6 @@
  * [GDC: One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM)
  * [Closer Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience)
  * [Halo Design Documents and Concepts](http://www.cand.land/halodocs)
-    * Halo 3 HUD & Halo 2 Menu Flowchart
  * [TrueSkill2: An Improved Bayesian Skill Rating System](https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/)
  * [GDC: Machine Learning for Optimal Matchmaking (TrueMatch)](https://www.youtube.com/watch?v=Q8BX0nXfPjY)
  
@@ -49,6 +47,5 @@
  * [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
  * [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
  * [Reviewing The Command & Conquer Source!](https://youtu.be/Oee7gje-XRc?t=970)
-    * Hade varit nice att klippa bort byggpill...
  * [Exploring and Reviewing F', The Mars Ingenuity Flight Software](https://www.youtube.com/watch?v=RbhufLudVsI)
  * [Path Tracing Three Ways: A Study of C++ Style](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
