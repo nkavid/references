@@ -36,6 +36,11 @@
  * [TrueSkill2: An Improved Bayesian Skill Rating System](https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/)
  * [GDC: Machine Learning for Optimal Matchmaking (TrueMatch)](https://www.youtube.com/watch?v=Q8BX0nXfPjY)
  
+## MLOps
+
+ * [Technology Readiness Levels for Machine Learning Systems](https://arxiv.org/abs/2101.03989.pdf)
+ * [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf)
+
 ## Miscellaneous Video
 
  * [Stress-Free Game Development: Powering Up Your Studio With DevOps](https://www.youtube.com/watch?v=t9HRzE7_2Xc)
