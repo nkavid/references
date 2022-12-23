@@ -55,3 +55,10 @@
  * [Reviewing The Command & Conquer Source!](https://youtu.be/Oee7gje-XRc?t=970)
  * [Exploring and Reviewing F', The Mars Ingenuity Flight Software](https://www.youtube.com/watch?v=RbhufLudVsI)
  * [Path Tracing Three Ways: A Study of C++ Style](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
+
+## Miscellaneous Papers
+
+ * [Technical Debt: The Ultimate Antipattern](https://web.archive.org/web/20170829222901id_/http://conferences.computer.org/mtd/2014/papers/6791a008.pdf)
+ * [The Hidden Cost of Backward Compatibility](https://www.diva-portal.org/smash/get/diva2:1485431/FULLTEXT01.pdf)
+ * [`goto` Statement Considered Harmful](https://dl.acm.org/doi/pdf/10.1145/362929.362947)
+ * [Structured Programming with `goto` Statements](https://dl.acm.org/doi/pdf/10.1145/356635.356640)
