@@ -62,3 +62,8 @@
  * [The Hidden Cost of Backward Compatibility](https://www.diva-portal.org/smash/get/diva2:1485431/FULLTEXT01.pdf)
  * [`goto` Statement Considered Harmful](https://dl.acm.org/doi/pdf/10.1145/362929.362947)
  * [Structured Programming with `goto` Statements](https://dl.acm.org/doi/pdf/10.1145/356635.356640)
+
+## Misc
+
+ * [Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/)
+ * [The C4 model for visualising software architecture](https://c4model.com/)
