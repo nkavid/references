@@ -41,6 +41,7 @@
  * [Technology Readiness Levels for Machine Learning Systems](https://arxiv.org/abs/2101.03989.pdf)
  * [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf)
  * [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+ * [Refactoring Databases](https://databaserefactoring.com/)
 
 ## Miscellaneous Video
 
