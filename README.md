@@ -78,3 +78,5 @@
     - Have not found similar resource going over integration aspects of CV systems
  - [PhD Dissertation - Algebraic Methods in Computer Vision](https://cmp.felk.cvut.cz/~kukelova/webthesis/docs/Kukelova-phd-2013.pdf)
     - Gröbner Basis methods applied to polynomial systems in CV
+ - [Book - Algebraic Geodesy and Geoinformatics](https://link.springer.com/book/10.1007/978-3-642-12124-1)
+    - Algebraic problems, with some usage of Gröbner Basis decomposition, in geodesy
