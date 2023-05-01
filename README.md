@@ -29,6 +29,7 @@
 
  - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
  - [Beej's Guide to UNIX IPC](https://beej.us/guide/bgipc/)
+ - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 
 ## Halo
 
