@@ -34,7 +34,7 @@
 
  - [Bloomberg: How Microsoft’s Halo Infinite Went From Disaster to Triumph](https://www.bloomberg.com/news/articles/2021-12-08/how-microsoft-s-halo-infinite-went-from-disaster-to-triumph)
  - [GDC: One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM)
-    - Engine talk also including past Halo titles and dissimilar platforms 
+    - Engine talk also including past Halo titles and dissimilar platforms
  - [Closer Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience)
     - Detailed descriptions of some networking issues in Online FPS
  - [Halo Design Documents and Concepts](http://www.cand.land/halodocs)
@@ -83,3 +83,4 @@
     - Gröbner Basis methods applied to polynomial systems in CV
  - [Book - Algebraic Geodesy and Geoinformatics](https://link.springer.com/book/10.1007/978-3-642-12124-1)
     - Algebraic problems, with some usage of Gröbner Basis decomposition, in geodesy
+ - [Destiny Matchmaking Screen Specification](https://david-candland.squarespace.com/matchmakingspec)
