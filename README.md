@@ -76,3 +76,5 @@
  - [The C4 model for visualising software architecture](https://c4model.com/)
  - [Computer Vision Metrics - Vision Pipelines and Optimizations](https://link.springer.com/chapter/10.1007/978-1-4302-5930-5_8)
     - Have not found similar resource going over integration aspects of CV systems
+ - [PhD Dissertation - Algebraic Methods in Computer Vision](https://cmp.felk.cvut.cz/~kukelova/webthesis/docs/Kukelova-phd-2013.pdf)
+    - Gröbner Basis methods applied to polynomial systems in CV
