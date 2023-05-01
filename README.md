@@ -7,6 +7,7 @@
  - [Game Engine Architecture Resources](https://www.gameenginebook.com/coursemat.html)
  - [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)
  - [Vulkan Tutorial](https://vulkan-tutorial.com/)
+    - Website dedicated to write a "hello world" program
  - [Khronos: Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 
 ## Digital Video
@@ -54,7 +55,10 @@
  - [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
  - [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
  - [Reviewing The Command & Conquer Source!](https://youtu.be/Oee7gje-XRc?t=970)
+    - Starts 14:30 -ish into the video skipping some boring IDE stuff
  - [Exploring and Reviewing F', The Mars Ingenuity Flight Software](https://www.youtube.com/watch?v=RbhufLudVsI)
+ - [The Cherno - I made it FASTER // Code Review](https://www.youtube.com/watch?v=mOSirVeP5lo)
+    - Ray tracing code review
  - [Path Tracing Three Ways: A Study of C++ Style](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
 
 ## Miscellaneous Papers
@@ -69,3 +73,4 @@
  - [Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/)
  - [The C4 model for visualising software architecture](https://c4model.com/)
  - [Computer Vision Metrics - Vision Pipelines and Optimizations](https://link.springer.com/chapter/10.1007/978-1-4302-5930-5_8)
+    - Have not found similar resource going over integration aspects of CV systems
