@@ -9,6 +9,8 @@
  - [Vulkan Tutorial](https://vulkan-tutorial.com/)
     - Website dedicated to write a "hello world" program
  - [Khronos: Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
+ - [Graphics Gems](https://www.realtimerendering.com/resources/GraphicsGems/)
+    - Repositories of geometry and graphics code
 
 ## Digital Video
 
