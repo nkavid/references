@@ -34,8 +34,11 @@
 
  - [Bloomberg: How Microsoft’s Halo Infinite Went From Disaster to Triumph](https://www.bloomberg.com/news/articles/2021-12-08/how-microsoft-s-halo-infinite-went-from-disaster-to-triumph)
  - [GDC: One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM)
+    - Engine talk also including past Halo titles and dissimilar platforms 
  - [Closer Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience)
+    - Detailed descriptions of some networking issues in Online FPS
  - [Halo Design Documents and Concepts](http://www.cand.land/halodocs)
+    - Halo 3 HUD specification and Halo 2 UI flowchart
  - [TrueSkill2: An Improved Bayesian Skill Rating System](https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/)
  - [GDC: Machine Learning for Optimal Matchmaking (TrueMatch)](https://www.youtube.com/watch?v=Q8BX0nXfPjY)
  
