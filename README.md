@@ -76,6 +76,7 @@
  - [Field Experience With Annex K — Bounds Checking Interfaces](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1967.htm)
  - [Bounds-checking Interfaces: Field Experience and Future Directions](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2336.pdf)
  - [Austin Group Review of ISO/IEC WDTR 24731](https://www.open-std.org/JTC1/SC22/WG14/www/docs/n1118.htm)
+ - [On the Role of Software in Spacecraft Accidents](http://sunnyday.mit.edu/papers/jsr.pdf)
 
 ## Misc
 
