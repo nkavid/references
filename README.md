@@ -80,6 +80,8 @@
 
 ## Misc
 
+ - [Linux Foundation - Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+ - [Environment Modules](https://modules.readthedocs.io/en/latest/)
  - [Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/)
  - [The C4 model for visualising software architecture](https://c4model.com/)
  - [Computer Vision Metrics - Vision Pipelines and Optimizations](https://link.springer.com/chapter/10.1007/978-1-4302-5930-5_8)
