@@ -80,6 +80,7 @@
 
 ## Misc
 
+ - [European Commision - Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act)
  - [Linux Foundation - Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
  - [Environment Modules](https://modules.readthedocs.io/en/latest/)
  - [Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/)
