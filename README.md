@@ -81,6 +81,7 @@
 ## Misc
 
  - [European Commision - Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act)
+ - [NTIA - SBOM Myths](https://ntia.gov/sites/default/files/publications/sbom_myths_vs_facts_nov2021_0.pdf)
  - [Linux Foundation - Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
  - [Environment Modules](https://modules.readthedocs.io/en/latest/)
  - [Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/)
