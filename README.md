@@ -1,5 +1,7 @@
 # references
 
+> Nämen kolla, 900 grunksnurr melongrab.
+
 ## Graphics Programming
 
  - [LearnOpenGL](https://learnopengl.com/)
@@ -77,6 +79,7 @@
  - [Bounds-checking Interfaces: Field Experience and Future Directions](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2336.pdf)
  - [Austin Group Review of ISO/IEC WDTR 24731](https://www.open-std.org/JTC1/SC22/WG14/www/docs/n1118.htm)
  - [On the Role of Software in Spacecraft Accidents](http://sunnyday.mit.edu/papers/jsr.pdf)
+ - [Build Systems à la Carte](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf)
 
 ## Misc
 
