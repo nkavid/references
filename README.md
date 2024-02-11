@@ -68,6 +68,10 @@
  - [The Cherno - I made it FASTER // Code Review](https://www.youtube.com/watch?v=mOSirVeP5lo)
     - Ray tracing code review
  - [Path Tracing Three Ways: A Study of C++ Style](https://www.youtube.com/watch?v=HG6c4Kwbv4I)
+ - [Rules for Radical Cpp Engineers](https://www.youtube.com/watch?v=ady2mUIQpt4)
+    - References "Rules for Radicals", a book on political activism, to talk about making changes in software engineering.
+ - [Building Software Capital](https://www.youtube.com/watch?v=ta3S8CRN2TM)
+    - Compare and contrast with "technical debt"
 
 ## Miscellaneous Papers
 
