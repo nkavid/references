@@ -103,3 +103,4 @@
     - Algebraic problems, with some usage of Gröbner Basis decomposition, in geodesy
  - [Destiny Matchmaking Screen Specification](https://david-candland.squarespace.com/matchmakingspec)
  - [Site Reliability Engineering](https://sre.google/books/)
+ - [Goal Structuring Notation V3](https://scsc.uk/r141C:1?t=1)
