@@ -73,6 +73,8 @@
     - References "Rules for Radicals", a book on political activism, to talk about making changes in software engineering.
  - [Building Software Capital](https://www.youtube.com/watch?v=ta3S8CRN2TM)
     - Compare and contrast with "technical debt"
+ - [Introduction to Data-Centric AI](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5)
+    - MIT course. Covers labeling, data management, privacy and security, what differentiates model-centric from data-centric.
 
 ## Miscellaneous Papers
 
