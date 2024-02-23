@@ -51,6 +51,7 @@
  - [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf)
  - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
  - [Refactoring Databases](https://databaserefactoring.com/)
+ - [Data Safety Guidance](https://scsc.uk/scsc-127I)
 
 ## Miscellaneous Video
 
@@ -100,3 +101,4 @@
  - [Book - Algebraic Geodesy and Geoinformatics](https://link.springer.com/book/10.1007/978-3-642-12124-1)
     - Algebraic problems, with some usage of Gröbner Basis decomposition, in geodesy
  - [Destiny Matchmaking Screen Specification](https://david-candland.squarespace.com/matchmakingspec)
+ - [Site Reliability Engineering](https://sre.google/books/)
