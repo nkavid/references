@@ -92,6 +92,7 @@
     - An empirical study of downgrades from the Bazel build technology. Analyzing commit, pull-request, and comment history for frequency of, and reasons for, abandoning Bazel as build system.
  - [Backstabber’s Knife Collection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7338168/pdf/978-3-030-52683-2_Chapter_2.pdf)
     - A Review of Open Source Software Supply Chain Attacks
+ - [BOMs Away! Inside the minds of Stakeholders: A Comprehensive Study of Bills of Materials for Software Systems](https://dl.acm.org/doi/abs/10.1145/3597503.3623347)
 
 ## Misc
 
