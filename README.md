@@ -90,6 +90,8 @@
  - [Structuring the Safety Argumentation for Deep Neural Network Based Perception in Automotive Applications](https://www.researchgate.net/profile/Gesina-Schwalbe-2/publication/354172662_Structuring_the_Safety_Argumentation_for_Deep_Neural_Network_Based_Perception_in_Automotive_Applications/links/612941d42b40ec7d8bca2e15/Structuring-the-Safety-Argumentation-for-Deep-Neural-Network-Based-Perception-in-Automotive-Applications.pdf)
  - [The Classics never go out of Style](https://www.researchgate.net/profile/Mahmoud-Alfadel/publication/377661239_The_Classics_Never_Go_Out_of_Style_An_Empirical_Study_of_Downgrades_from_the_Bazel_Build_Technology/links/65b1bbb29ce29c458bad4017/The-Classics-Never-Go-Out-of-Style-An-Empirical-Study-of-Downgrades-from-the-Bazel-Build-Technology.pdf)
     - An empirical study of downgrades from the Bazel build technology. Analyzing commit, pull-request, and comment history for frequency of, and reasons for, abandoning Bazel as build system.
+ - [Backstabber’s Knife Collection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7338168/pdf/978-3-030-52683-2_Chapter_2.pdf)
+    - A Review of Open Source Software Supply Chain Attacks
 
 ## Misc
 
